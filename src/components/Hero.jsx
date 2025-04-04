@@ -50,6 +50,7 @@ const Hero = () => {
             initial={{x:100,opacity:0}}
             animate={{x:0,opacity:1}}
             transition={{duration:1,delay:0.8}}
+            loading="lazy"
             src={profilePic} alt="profilePic" />
           </div>
         </div>

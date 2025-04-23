@@ -121,6 +121,24 @@ export const PROJECTS = [
 },
 ];
 
+export const certifications = [
+  {
+    title: "Full Stack Web Development",
+    issuer: "Coursera",
+    date: "March 2024",
+    certificateLink: "https://example.com/certificate-url",
+    description: "Completed a comprehensive full-stack development course covering frontend and backend technologies including React, Node.js, and MongoDB."
+  },
+  {
+    title: "Data Structures and Algorithms",
+    issuer: "Coding Ninjas",
+    date: "January 2024",
+    certificateLink: "https://example.com/certificate-url",
+    description: "Learned and implemented various algorithms and data structures in C++ with a focus on problem solving and competitive coding."
+  }
+];
+
+
 export const CONTACT = {
   address: "C/o Lovely Professional University, Phagwara, Punjab",
   phoneNo: "+91 620****115 ",

@@ -3,6 +3,7 @@ import netflix from "../assets/projects/netflixclone.png";
 import aifinity from "../assets/projects/Aifinity.png";
 import chatgpt from "../assets/projects/chatgptclone.png";
 import weatherapp from "../assets/projects/weatherapp.png";
+import nqueen from "../assets/projects/nqueen.png";
 export const HERO_CONTENT = `I am Amulya Raj, a passionate and driven Computer Science and Engineering student at Lovely Professional University. With a strong foundation in full-stack development, artificial intelligence, and problem-solving, I have honed my technical skills through various projects and hackathons. As the President of Converse Plus, I have led multiple events, meetings, and sessions, fostering a dynamic tech community and enhancing collaboration among peers.`;
 
 export const ABOUT_TEXT = `I specialize in programming languages like C/C++, Java, JavaScript, and Python, with expertise in frontend frameworks such as React.js, backend technologies like Node.js and Express, and databases including MongoDB and PostgreSQL. I have actively participated in hackathons like SIH 2024 and Hack-a-Throne 1.0, where I developed innovative solutions to real-world problems.

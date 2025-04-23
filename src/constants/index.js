@@ -71,6 +71,7 @@ export const PROJECTS = [
       "A Learn and Earn Platform where users earn points through educational activities like quizzes, games, and content creation. Points can be redeemed for courses or study materials. Features social media integration for personalized learning.",
     technologies: ["HTML", "CSS", "JavaScript", "Express", "MongoDB"],
     futureScope: "Integrating AI and LLMs to enhance efficiency.",
+    link:"https://github.com/Amulyaraj07/AIfinity"
   },
   {
     title: "ChatGPT Clone",
@@ -78,6 +79,7 @@ export const PROJECTS = [
     description:
       "A ChatGPT-like chatbot built using React.js that interacts with users using API-driven responses.",
     technologies: ["React.js", "API"],
+    link:"https://github.com/Amulyaraj07/chatGPTclone"
   },
   {
     title: "Weather Search App",
@@ -90,6 +92,7 @@ export const PROJECTS = [
       "OpenWeather API",
       "Font Awesome",
     ],
+    link:"climate-track-app.vercel.app/"
   },
   {
     title: "Netflix Clone",
@@ -97,6 +100,7 @@ export const PROJECTS = [
     description:
       "A sleek and responsive HTML/CSS Netflix clone with a polished UI and seamless navigation. Future plans include UI enhancements and additional features.",
     technologies: ["HTML", "CSS"],
+    link:"https://github.com/Amulyaraj07/Netflix-clone"
   },
   {
     title: "Portfolio Website",
@@ -104,7 +108,16 @@ export const PROJECTS = [
     description:
       "A personal portfolio website built with React.js to showcase projects, skills, and contact information.",
     technologies: ["React.js"],
+    link:"https://knowaboutamulya.vercel.app/"
   },
+  {
+  title: "N-Queen Visualizer",
+  image: nqueen,
+  description:
+    "The N-Queen Visualizer is an interactive web application designed to visually demonstrate the solution to the classic N-Queen problem, ensuring no two queens threaten each other on an N×N chessboard.",
+  technologies: ["HTML", "CSS", "JavaScript"],
+  link: "https://nqueenvisualizerbyamulya.netlify.app/"
+},
 ];
 
 export const CONTACT = {
